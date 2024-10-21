@@ -1,3 +1,8 @@
+
+alpha entry logic can be used through the terminal to verify testing with the arguments as such BTC-USDT buy 1 1 10 
+
+
+
 # apexpro
 
 Official Python3 API connector for Apexpro's HTTP and WebSockets APIs.  
